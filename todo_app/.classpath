@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/byte-buddy-1.10.2.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/hibernate-commons-annotations-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/hibernate-core-5.4.10.Final.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/hibernate-entitymanager-5.4.10.Final.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/jandex-2.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/javassist-3.24.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/New data/Todo-List/jar_files (5)/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Neon/StrutsHelloWorld11/WebContent/WEB-INF/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/New data/gson-2.2.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
